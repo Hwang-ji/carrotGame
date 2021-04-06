@@ -3,7 +3,7 @@
 #### 시간 내에 벌레를 건드리지 않고 당근을 다 클릭하면 되는 게임 
 ------------------------------------------------
 
-https://hwang-ji.github.io/carrotGame/
+https://hwang-ji.github.io/carrot_game/
 
 ------------------------------------------------
 ## Screenshot
